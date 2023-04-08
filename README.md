@@ -43,7 +43,7 @@ To fetch website content, include the URL in your message, and the bot will auto
 
 ## Demo
 
-Just go to (the bot)[https://t.me/MbakPanduBot] on Telegram
+Just go to [the bot](https://t.me/MbakPanduBot) on Telegram
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or create an issue to propose changes or report bugs.
