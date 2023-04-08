@@ -41,5 +41,9 @@ To toggle between text and voice modes, send a message containing the #toggle ke
 
 To fetch website content, include the URL in your message, and the bot will automatically extract the content and display it in the chat.
 
+## Demo
+
+Just go to (the bot)[https://t.me/MbakPanduBot] on Telegram
+
 ## Contributing
 Contributions are welcome! Please submit a pull request or create an issue to propose changes or report bugs.
