@@ -1,5 +1,5 @@
 # Lina Telegram Chatbot With Realistic Voice and Console Commands
-Lina is a sophisticated Telegram chatbot that uses OpenAI GPT-4 to generate human-like responses to users' messages. It is capable of understanding and responding to text messages and, optionally, converting those responses into voice messages. Additionally, Lina can fetch and display content from websites by executing the links -dump <URL> command. Lina also has the ability to execute console commands, providing even greater interactivity.
+Lina is a sophisticated Telegram chatbot that uses OpenAI davinci 3 to generate human-like responses to users' messages. It is capable of understanding and responding to text messages and, optionally, converting those responses into voice messages. Additionally, Lina can fetch and display content from websites by executing the links -dump <URL> command. Lina also has the ability to execute console commands, providing even greater interactivity.
 
 ### ⚠️ WARNING: ⚠️ Due to Lina's ability to interact with the operating system via console commands, it is highly recommended to run Lina in a secure and isolated environment, such as a virtual machine, and away from sensitive files, such as private keys or passwords. This precaution will prevent unauthorized access to sensitive data.
 
